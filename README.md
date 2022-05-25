@@ -18,5 +18,5 @@ ALUMNO (A): Sebastian Gonzalez Elogio NUM.CONTROL: 20210571
 TIJUANA B.C. A 23 DE MAYO DE 2022
 
 # ActividadCierre
-Durante la actividad tuve varios documentos que no se pudieron compilar,ya sea por error en las linas de codigo o por falta de la libreria.
+Durante la actividad tuve varios programas que no se pudieron compilar,ya sea por error en las linas de codigo o por falta de la libreria.
 Estos fueron los resultados que obtuve.
